@@ -2,7 +2,7 @@
 Git Work Flow
 <img src=/gitworkflow.png><img>
 
-table>
+<table>
     <thead>
         <tr>
             <th>Commands</th>
